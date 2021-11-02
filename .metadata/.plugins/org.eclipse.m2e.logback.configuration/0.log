@@ -1,0 +1,50 @@
+2021-11-02 14:46:09,653 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\anil\Desktop\maven-project\Project1\pom.xml
+2021-11-02 14:46:13,357 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: caseStudy1:Project1:0.0.1-SNAPSHOT @ C:\Users\anil\Desktop\maven-project\Project1\pom.xml.
+2021-11-02 14:46:16,611 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project1/src/main/java
+2021-11-02 14:46:16,613 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project1/src/main/resources
+2021-11-02 14:46:16,615 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project1/src/test/java
+2021-11-02 14:46:22,599 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2021-11-02 14:46:24,787 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:46:24,806 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 14:46:24,818 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:46:24,828 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 14:47:23,672 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-11-02 14:47:43,576 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anil\Desktop\maven-project\Project1
+2021-11-02 14:47:43,577 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-11-02 14:48:31,216 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:48:31,231 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 14:48:31,263 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:48:31,274 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 14:49:15,154 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-11-02 14:49:46,928 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-11-02 14:50:04,808 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anil\Desktop\maven-project\Project1
+2021-11-02 14:50:04,808 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -X
+2021-11-02 14:50:34,480 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:50:34,491 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 14:50:34,494 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:50:34,504 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 14:50:34,504 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Project1
+2021-11-02 14:50:34,505 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Project1
+2021-11-02 14:50:34,529 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:51:21,790 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anil\Desktop\maven-project\Project1
+2021-11-02 14:51:21,791 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-11-02 14:52:16,487 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:52:16,518 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 14:52:16,529 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:52:16,538 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 14:52:23,366 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anil\Desktop\maven-project\Project1
+2021-11-02 14:52:23,376 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -X
+2021-11-02 14:53:45,487 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:53:45,503 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 14:53:45,507 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 14:53:45,517 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 15:15:12,311 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 15:15:12,323 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 15:15:12,455 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 15:15:12,466 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 15:15:59,110 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 15:15:59,121 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 15:15:59,155 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-02 15:15:59,165 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anil\Desktop\maven-project\Project1\src\test\resources
+2021-11-02 15:17:36,874 [main] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anil\Desktop\maven-project\Project1
+2021-11-02 15:17:36,878 [main] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
